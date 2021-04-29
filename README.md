@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Marly-boop
 - 👀 I’m interested in Blockchain and Machin learning
 - 🌱 I’m currently learning Python3
-- 💞️ I’m looking to collaborate on Medecal project
-- 📫 How to reach me on discord Marly-boop
+- 💞️ I’m looking to collaborate on Medical project
+- 📫 Reach me on discord Marly-boop
 Thanks for reading ^^
 
 <!---
