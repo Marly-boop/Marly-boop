@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marly-boop
 - 👀 I’m interested in computer development
 - 🌱 I’m currently learning Ruby
-- 💞️ I’m looking to collaborate on Medical project
+- 💞️ I collaborate on Medical project
 - 📫 Reach me on discord Marly-boop
 Thanks for reading ^^
 
