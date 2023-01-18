@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marly-boop
 - 👀 I’m interested in computer development
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning Go
 - 💞️ I collaborate on Medical project
 - 📫 Reach me on discord Marly-boop
 Thanks for reading ^^
